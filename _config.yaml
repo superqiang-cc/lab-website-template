@@ -2,18 +2,16 @@
 title: Climate Smart City (C2S) Lab
 subtitle: A U-Tsukuba Research Group
 description: Climate Smart City (C2S) Lab
-header: images/background.jpg
-footer: images/background.jpg
+header: images/Background_upper.jpg
+footer: images/Background_lower.jpg
 proofer: false
 
 # site social media and other links
 links:
-  email: qiangguo@kz.tsukuba.ac.jp
   orcid: 0000-0001-6539-5988
   google-scholar: LtfbpYYAAAAJ
   github: superqiang-cc
-  twitter:
-  youtube:
+  twitter: Dr_GuoQiang
 
 ### jekyll settings
 
