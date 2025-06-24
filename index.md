@@ -32,7 +32,7 @@ We contribute state-of-the-art scientific publications to enhance the collective
 
 {%
   include feature.html
-  image="images/research_hp.jpg"
+  image="images/research_hp.png"
   link="research"
   title="Our Research"
   text=text
@@ -55,7 +55,7 @@ We collaborate with industry and government stakeholders to assess risks and dev
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/project_hp.jpg"
   link="projects"
   title="Our Projects"
   flip=true
