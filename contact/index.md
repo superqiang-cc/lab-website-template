@@ -7,13 +7,12 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Email Address of Group PI: qiangguo@kz.tsukuba.ac.jp
+**Email Address of Group PI:** qiangguo@kz.tsukuba.ac.jp
 
-Telephone: Not Available For Now
+**Telephone:** Not Available For Now
 
-Location: 3F Building, Institute of Systems and Information Engineering, University of Tsukuba, 1-1-1, Tennodai, Tsukuba, Ibaraki 305-8573, Japan
+**Location:** 3F Building, Institute of Systems and Information Engineering, University of Tsukuba, 1-1-1, Tennodai, Tsukuba, Ibaraki 305-8573, Japan
 
-This button can help to specify our location in Google Map
 {%
   include button.html
   type="address"
