@@ -5,6 +5,7 @@
 
 C2S Group is part of the [Department of Engineering Mechanics and Energy](https://www.eme.tsukuba.ac.jp/), within the [Institute of Systems and Information Engineering](https://www.sie.tsukuba.ac.jp/eng/) at the [University of Tsukuba](https://www.tsukuba.ac.jp/en/).
 <br>
+<br>
 Our mission is to advance understanding of the impacts of anthropogenic climate change and to develop practical solutions for addressing these complex and evolving challenges.
 <br>
 We generate new insights into how climate change is reshaping both natural and human systems, with a focus on areas such as urban sustainability, extreme weather events, economic development, and water and food security. To achieve this, we leverage cutting-edge tools, including physically based models (e.g., GCMs, RCMs, LSMs), multi-source datasets (e.g., climate observations, remote sensing), and machine learning techniques.
