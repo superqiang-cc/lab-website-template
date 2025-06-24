@@ -1,7 +1,7 @@
 ---
 ---
 
-# Climate Smart City (C2S) Lab
+# About Us
 
 C2S Group is part of the [Department of Engineering Mechanics and Energy](https://www.eme.tsukuba.ac.jp/), within the [Institute of Systems and Information Engineering](https://www.sie.tsukuba.ac.jp/eng/) at the [University of Tsukuba](https://www.tsukuba.ac.jp/en/).
 <br>
