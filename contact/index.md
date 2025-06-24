@@ -8,7 +8,7 @@ nav:
 {%
   include figure.html
   image="images/contact.jpg"
-  width="400px"
+  width="800px"
 %}
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
