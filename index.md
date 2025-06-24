@@ -80,7 +80,7 @@ We gather talented, self-driven individuals, equip them with essential resources
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/team_hp.jpg"
   link="team"
   title="Our Team"
   text=text
