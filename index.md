@@ -1,7 +1,7 @@
 ---
 ---
 
-# superqiang-cc's Website
+# Climate Smart City (C2S) Lab
 
 An engaging 1-3 sentence description of your lab.
 
