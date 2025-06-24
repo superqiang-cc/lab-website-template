@@ -5,6 +5,12 @@ nav:
   tooltip: Email, address, and location
 ---
 
+{%
+  include figure.html
+  image="images/contact.jpg"
+  width="400px"
+%}
+
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
 **Email Address of Group PI:** qiangguo@kz.tsukuba.ac.jp
