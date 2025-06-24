@@ -1,1 +1,1 @@
-Sitemap: https://superqiang-cc.github.io/lab-website-template/sitemap.xml
+Sitemap: https://superqiang-cc.github.io/sitemap.xml
