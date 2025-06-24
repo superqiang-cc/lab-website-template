@@ -2,7 +2,6 @@
 name: GUO Qiang
 image: images/qiang_guo_profile.jpg
 role: principal-investigator
-affiliation: University of Tsukuba
 
 links:
   home-page: https://trios.tsukuba.ac.jp/en/researchers/5100
