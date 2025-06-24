@@ -32,7 +32,7 @@ We contribute state-of-the-art scientific publications to enhance the collective
 
 {%
   include feature.html
-  image="images/research_hp.jpg"
+  image="images/research_hp.png"
   link="research"
   title="Our Research"
   text=text
