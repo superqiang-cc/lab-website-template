@@ -10,7 +10,7 @@ links:
 ---
 <p style="font-size: 18px; font-weight: normal;">
   
-**Brief:**<br>
+<b>Brief:</b><br>
 I'm a climate change scientist with interests in climate change impact assessment, urban heat islands, regional climate modeling, global water resources, and machine learning.<br>
 My research began with statistical and dynamical downscaling of climate model outputs and examining the hydrological impacts of climate change. Currently, I focus on accurately forecasting heat stress under global warming and developing effective adaptation and mitigation strategies for society. To achieve these goals, I utilize a variety of tools, including multi-source datasets (e.g., station data, remote sensing, climate model simulations, mortality/morbidity observations), physical-based numerical modeling (e.g., WRF), and machine learning techniques.<br><br>
 
